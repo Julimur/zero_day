@@ -1,0 +1,1 @@
+Setting up Git and Github for the Vagrant project.
